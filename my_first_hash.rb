@@ -7,7 +7,6 @@ def shipping_manifest
 end
 the_manifest
  
-end
 
 def retrieval
   shipping_manifest = {
